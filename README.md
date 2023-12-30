@@ -26,4 +26,8 @@ This project is licensed under the MIT License.<br>
 Special thanks to Krish Naiksir<br>
 Inspired by krish naik<br>
 
+You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502 <br>
+  Network URL: http://192.168.29.57:8502 
 
